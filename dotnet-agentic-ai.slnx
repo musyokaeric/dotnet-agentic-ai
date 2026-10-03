@@ -9,4 +9,14 @@
     <Project Path="01-getting-started/MinimalAgent/ServiceDefaults/01-ServiceDefaults.csproj" Id="da88c6b1-3c91-4997-a4f4-7b056daa5168" />
     <Project Path="01-getting-started/MinimalAgent/WebApi/01-WebApi.csproj" Id="291ffb58-7984-41fb-bfda-5a352cf20ce5" />
   </Folder>
+  <Folder Name="/02-function-tools/">
+    <Project Path="02-function-tools/CodeInterpreter/CodeInterpreter.csproj" Id="9bc54432-83be-4dd1-b003-780030787f4d" />
+    <Project Path="02-function-tools/FunctionCall/FunctionCall.csproj" Id="84dd01fe-b7d5-478e-b473-1ee88643846a" />
+    <Project Path="02-function-tools/HITL/HITL.csproj" Id="5cba32b9-1dad-4fa9-9a41-321c250dd417" />
+  </Folder>
+  <Folder Name="/02-function-tools/MinimalAgent/">
+    <Project Path="02-function-tools/MinimalAgent/AppHost/02-AppHost.csproj" Id="fabba3a6-7d55-4790-9b9b-32922a86a66e" />
+    <Project Path="02-function-tools/MinimalAgent/ServiceDefaults/02-ServiceDefaults.csproj" Id="206472d2-190d-4bbf-a3da-7dbcc5b764fc" />
+    <Project Path="02-function-tools/MinimalAgent/WebApi/02-WebApi.csproj" Id="86196776-c93e-4dbb-80e7-31e6429c3e42" />
+  </Folder>
 </Solution>

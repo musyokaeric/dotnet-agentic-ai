@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>9f3ebcd1-b3f1-4c4d-be86-888145cfefb6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiceDefaults\02-ServiceDefaults.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.AI.OpenAI" Version="2.1.0" />
+		<PackageReference Include="Azure.Identity" Version="1.21.0" />
+		<PackageReference Include="Microsoft.Agents.AI.OpenAI" Version="1.23.0" />
+		<PackageReference Include="Microsoft.Agents.AI.DevUI" Version="1.23.0-preview.260928.1" />
+		<PackageReference Include="Microsoft.Agents.AI.Hosting" Version="1.23.0-preview.260928.1" />
+		<PackageReference Include="Microsoft.Agents.AI.Hosting.OpenAI" Version="1.23.0-alpha.260928.1" />
+	</ItemGroup>
+
+</Project>
