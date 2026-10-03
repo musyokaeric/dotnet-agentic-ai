@@ -1,1 +1,12 @@
-<Solution />
+<Solution>
+  <Folder Name="/01-getting-started/">
+    <Project Path="01-getting-started/BasicAgent/BasicAgent.csproj" />
+    <Project Path="01-getting-started/MultiTurnConversation/MultiTurnConversation.csproj" />
+    <Project Path="01-getting-started/StructuredOutput/StructuredOutput.csproj" />
+  </Folder>
+  <Folder Name="/01-getting-started/MinimalAgent/">
+    <Project Path="01-getting-started/MinimalAgent/AppHost/01-AppHost.csproj" Id="592bee71-8f83-489d-88c0-15bb477b8f6b" />
+    <Project Path="01-getting-started/MinimalAgent/ServiceDefaults/01-ServiceDefaults.csproj" Id="da88c6b1-3c91-4997-a4f4-7b056daa5168" />
+    <Project Path="01-getting-started/MinimalAgent/WebApi/01-WebApi.csproj" Id="291ffb58-7984-41fb-bfda-5a352cf20ce5" />
+  </Folder>
+</Solution>
