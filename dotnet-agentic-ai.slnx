@@ -19,4 +19,8 @@
     <Project Path="02-function-tools/MinimalAgent/ServiceDefaults/02-ServiceDefaults.csproj" Id="206472d2-190d-4bbf-a3da-7dbcc5b764fc" />
     <Project Path="02-function-tools/MinimalAgent/WebApi/02-WebApi.csproj" Id="86196776-c93e-4dbb-80e7-31e6429c3e42" />
   </Folder>
+  <Folder Name="/03-memory/">
+    <Project Path="03-memory/CustomContextProvider/CustomContextProvider.csproj" Id="48571d4e-3dbd-4296-995a-9e14bb9f74cb" />
+    <Project Path="03-memory/MockCosmosDb/MockCosmosDb.csproj" Id="dfc0f9b3-0040-4297-90ea-06f6574f241d" />
+  </Folder>
 </Solution>
