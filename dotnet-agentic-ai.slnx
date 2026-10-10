@@ -23,4 +23,8 @@
     <Project Path="03-memory/CustomContextProvider/CustomContextProvider.csproj" Id="48571d4e-3dbd-4296-995a-9e14bb9f74cb" />
     <Project Path="03-memory/MockCosmosDb/MockCosmosDb.csproj" Id="dfc0f9b3-0040-4297-90ea-06f6574f241d" />
   </Folder>
+  <Folder Name="/04-multi-agent-workflows/">
+    <Project Path="04-multi-agent-workflows/FirstWorkflow/FirstWorkflow.csproj" Id="81be7e75-a554-4694-b512-b33777897942" />
+    <Project Path="04-multi-agent-workflows/MultiAgentWorkflow/MultiAgentWorkflow.csproj" Id="799b8c60-1954-431c-922a-18fe5abb5829" />
+  </Folder>
 </Solution>
