@@ -27,4 +27,12 @@
     <Project Path="04-multi-agent-workflows/FirstWorkflow/FirstWorkflow.csproj" Id="81be7e75-a554-4694-b512-b33777897942" />
     <Project Path="04-multi-agent-workflows/MultiAgentWorkflow/MultiAgentWorkflow.csproj" Id="799b8c60-1954-431c-922a-18fe5abb5829" />
   </Folder>
+  <Folder Name="/05-workflow-patterns/">
+    <Project Path="05-workflow-patterns/AgenticWorkflowPatterns/AgenticWorkflowPatterns.csproj" Id="f884bb91-8f59-4233-b0a2-8fe805884f31" />
+  </Folder>
+  <Folder Name="/05-workflow-patterns/MininalAgent/">
+    <Project Path="05-workflow-patterns/MinimalAgent/AppHost/05-AppHost.csproj" Id="89a53c2d-8404-4ae8-a497-8b6d763713a4" />
+    <Project Path="05-workflow-patterns/MinimalAgent/ServiceDefaults/05-ServiceDefaults.csproj" Id="c59368cf-dac2-4ea8-a114-5cca1282f587" />
+    <Project Path="05-workflow-patterns/MininalAgent/WebApi/05-WebApi.csproj" Id="a9ba69ac-b8c9-48f9-95e8-19ad851acff4" />
+  </Folder>
 </Solution>
