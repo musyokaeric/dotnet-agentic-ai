@@ -35,4 +35,8 @@
     <Project Path="05-workflow-patterns/MinimalAgent/ServiceDefaults/05-ServiceDefaults.csproj" Id="c59368cf-dac2-4ea8-a114-5cca1282f587" />
     <Project Path="05-workflow-patterns/MininalAgent/WebApi/05-WebApi.csproj" Id="a9ba69ac-b8c9-48f9-95e8-19ad851acff4" />
   </Folder>
+  <Folder Name="/06-agentic-rag/">
+    <Project Path="06-agentic-rag/BasicTextRAG/BasicTextRAG.csproj" Id="610f49b2-0b60-4fb8-bb70-36f9bd694ab4" />
+    <Project Path="06-agentic-rag/QdrantVectorStore/QdrantVectorStore.csproj" Id="82098fdd-2779-4778-8423-53c5fc3db028" />
+  </Folder>
 </Solution>

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>33293b6f-4dd6-4552-84cd-7fc8f61ae174</UserSecretsId>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.AI.OpenAI" Version="2.1.0" />
+		<PackageReference Include="Azure.Identity" Version="1.21.0" />
+		<PackageReference Include="CommunityToolkit.VectorData.Qdrant" Version="1.0.0" />
+		<PackageReference Include="Microsoft.Agents.AI.OpenAI" Version="1.23.0" />
+		<PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="10.10.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.11" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="10.0.11" />
+	</ItemGroup>
+
+</Project>
