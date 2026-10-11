@@ -39,4 +39,7 @@
     <Project Path="06-agentic-rag/BasicTextRAG/BasicTextRAG.csproj" Id="610f49b2-0b60-4fb8-bb70-36f9bd694ab4" />
     <Project Path="06-agentic-rag/QdrantVectorStore/QdrantVectorStore.csproj" Id="82098fdd-2779-4778-8423-53c5fc3db028" />
   </Folder>
+  <Folder Name="/07-acp-a2a/">
+    <Project Path="07-acp-a2a/EnterpriseComplianceService/EnterpriseComplianceService.csproj" Id="f8ed88c0-36d3-4257-9856-6d8ca868b011" />
+  </Folder>
 </Solution>
