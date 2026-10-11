@@ -42,4 +42,8 @@
   <Folder Name="/07-acp-a2a/">
     <Project Path="07-acp-a2a/EnterpriseComplianceService/EnterpriseComplianceService.csproj" Id="f8ed88c0-36d3-4257-9856-6d8ca868b011" />
   </Folder>
+  <Folder Name="/08-acp-mcp/">
+    <Project Path="08-acp-mcp/LocalGithubMcp/LocalGithubMcp.csproj" Id="7f6b6657-6750-4108-965a-b2bfd19c5b14" />
+    <Project Path="08-acp-mcp/MicrosoftGovernanceMCP/MicrosoftGovernanceMCP.csproj" Id="9d1801bc-2f2e-41c4-bcb8-be55fd81195f" />
+  </Folder>
 </Solution>
