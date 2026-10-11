@@ -46,4 +46,8 @@
     <Project Path="08-acp-mcp/LocalGithubMcp/LocalGithubMcp.csproj" Id="7f6b6657-6750-4108-965a-b2bfd19c5b14" />
     <Project Path="08-acp-mcp/MicrosoftGovernanceMCP/MicrosoftGovernanceMCP.csproj" Id="9d1801bc-2f2e-41c4-bcb8-be55fd81195f" />
   </Folder>
+  <Folder Name="/09-acp-agui/">
+    <Project Path="09-acp-agui/Client/Client.csproj" Id="6ad1b2f3-80e9-4f9b-8308-b844df2dc07a" />
+    <Project Path="09-acp-agui/Server/Server.csproj" Id="7248474b-c59e-421f-9a1d-e2a744999da2" />
+  </Folder>
 </Solution>
